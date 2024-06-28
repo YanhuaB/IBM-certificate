@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 June 26, 2024
-Yanhua Bai's account is verified. Coursera certifies their successful completion of [IBM Data Science Specialization](IBM-certificate/IBM).
+Yanhua Bai's account is verified. Coursera certifies their successful completion of [IBM Data Science Specialization](IBM-certificate/IBM_Data_Science.pdf).
 
 ## Course Certificates Completed
 * Machine Learning with Python
