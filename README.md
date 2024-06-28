@@ -11,5 +11,5 @@ Yanhua Bai's account is verified. Coursera certifies their successful completion
 * [Data Analysis with Python](Certificate/07_Data_Analysis_with_Python.pdf)
 * [Python for Data Science, AI & Development](Certificate/08_Python_for_Data_Science,AI&Development.pdf)
 * [Data Visualization with Python](Certificate/09_Data_Visualization_with_Python.pdf)
-* Python Project for Data Science
-* Applied Data Science Capstone
+* [Python Project for Data Science](10_Python_Project_for_Data_Science.pdf)
+* [Applied Data Science Capstone](11_Applied_Data_Science_Capstone.pdf)
