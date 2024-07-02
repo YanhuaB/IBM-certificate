@@ -4,6 +4,9 @@ Yanhua Bai's account is verified. Coursera certifies their successful completion
 
 ![IBM Data Science Professional Certificate image](https://github.com/YanhuaB/IBM-certificate/blob/main/Certificate/JpgFiles/IBM_Data_Science.jpg)
 
+
+By completing this Professional Certificate, Yanhua Bai has demonstrated proficiency with essential tools and skills required for a Data Science role. This program provided hands-on experience in Data Science and Machine Learning, beginning with an orientation to Data Science and its methodologies. Learners became proficient with a variety of data science tools, learned Python and SQL, and performed Data Visualization and Analysis. They also created Machine Learning models. Throughout the course, participants completed several labs and assignments on the cloud, culminating in a Capstone Project that showcased their knowledge and skills.
+
 ## Course Certificates Completed
 * [Machine Learning with Python](Certificate/02_Machine_Learning_with_Python.pdf)
 * [What is Data Science?](Certificate/03_What_is_Data_Science.pdf)
